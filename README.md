@@ -11,6 +11,6 @@ Here you'll find all the links to the 42 cpp module's , I attached each module w
 | 6  | [CPP_05](https://github.com/Othmane-Farissi/CPP-05) | Mommy, when I grow up, I want to be a bureaucrat! | Repetition and Exceptions               |
 | 7  | [CPP_06](https://github.com/Othmane-Farissi/CPP-06) | Scalar conversion                          | C++ casts                                      |
 | 8  | [CPP_07](https://github.com/Othmane-Farissi/CPP-07) | A few functions and class template         | C++ templates                                  |
-| 9  | [CPP_08]((https://github.com/Othmane-Farissi/CPP-08)) | Playing with templates and containers      | Templated containers, iterators, algorithms    |
+| 9  | [CPP_08](https://github.com/Othmane-Farissi/CPP-08) | Playing with templates and containers      | Templated containers, iterators, algorithms    |
 
 
