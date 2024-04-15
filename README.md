@@ -9,8 +9,8 @@ Here you'll find all the links to the 42 cpp module's , I attached each module w
 | 4  | [CPP_03](link-to-CPP_03-repo) | Aaaaand... OPEN!                           | Inheritance                                    |
 | 5  | [CPP_04](link-to-CPP_04-repo) | I don't want to set the world on fire      | Subtype polymorphism, abstract classes, interfaces |
 | 6  | [CPP_05](https://github.com/Othmane-Farissi/CPP-05) | Mommy, when I grow up, I want to be a bureaucrat! | Repetition and Exceptions               |
-| 7  | [CPP_06](link-to-CPP_06-repo) | Scalar conversion                          | C++ casts                                      |
-| 8  | [CPP_07](link-to-CPP_07-repo) | A few functions and class template         | C++ templates                                  |
-| 9  | [CPP_08](link-to-CPP_08-repo) | Playing with templates and containers      | Templated containers, iterators, algorithms    |
+| 7  | [CPP_06](https://github.com/Othmane-Farissi/CPP-06) | Scalar conversion                          | C++ casts                                      |
+| 8  | [CPP_07](https://github.com/Othmane-Farissi/CPP-07) | A few functions and class template         | C++ templates                                  |
+| 9  | [CPP_08]((https://github.com/Othmane-Farissi/CPP-08)) | Playing with templates and containers      | Templated containers, iterators, algorithms    |
 
 
